@@ -1,0 +1,550 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0003",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Preserving and Creating Access to Unique Photo Collection on Afghanistan",
+        "Grant_Type": "Project",
+        "Amount": 50000,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Abdul",
+        "Applicant_Last_Name": "Rahim Qaderdan",
+        "Host_Institution": "Afghanistan Centre at Kabul University",
+        "Host_Country": "Afghanistan",
+        "Host_Sub_region": "South Asia",
+        "Host_Region": "Asia",
+        "Archival_Country": "Afghanistan",
+        "Archival_Sub_region": "South Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Photo",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 1
+      },
+      "geometry": {
+        "coordinates": [
+          66.0247117968681,
+          33.8311370648944
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0021",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Saving, digitizing and providing access to Albania's heritage of archival motion picture paper and photographic collections",
+        "Grant_Type": "Project",
+        "Amount": 50000,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Iris",
+        "Applicant_Last_Name": "Elezi",
+        "Host_Institution": "Albanian National Film Archive aka Arkivi Qendror Shtetëror i Filmit (AQSHF)",
+        "Host_Country": "Albania",
+        "Host_Sub_region": "Europe (Non-EU)",
+        "Host_Region": "Europe",
+        "Archival_Country": "Albania",
+        "Archival_Sub_region": "Europe (Non-EU)",
+        "Archival_Region": "Europe",
+        "Primary_material_type": "Print (Archival)",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 2
+      },
+      "geometry": {
+        "coordinates": [
+          20.0642064312691,
+          41.1345532837753
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0044",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "\"Argintinean human rights organizations online library of periodical and non-periodical publications\"",
+        "Grant_Type": "Project",
+        "Amount": 38777.75,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Maria",
+        "Applicant_Last_Name": "VeronicaTorras",
+        "Host_Institution": "Memoria Abierta",
+        "Host_Country": "Argentina",
+        "Host_Sub_region": "South America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Argentina",
+        "Archival_Sub_region": "South America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Print (Archival)",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $35,252.5",
+        "ObjectId": 3
+      },
+      "geometry": {
+        "coordinates": [
+          -65.0715421080394,
+          -35.4957581841534
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0011",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Documenting 20th century Bajan life",
+        "Grant_Type": "Project",
+        "Amount": 34403,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Amalia",
+        "Applicant_Last_Name": "Skarlatou Levi",
+        "Host_Institution": "Barbados Archives",
+        "Host_Country": "Barbados",
+        "Host_Sub_region": "Caribbean",
+        "Host_Region": "Americas",
+        "Archival_Country": "Barbados",
+        "Archival_Sub_region": "Caribbean",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Ephemera",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $24,644",
+        "ObjectId": 4
+      },
+      "geometry": {
+        "coordinates": [
+          -59.5564244783682,
+          13.1722219791258
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0049",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "\"Assessing and Safeguarding the Documentary Heritage of Dangriga Town\"",
+        "Grant_Type": "Planning",
+        "Amount": 15000,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Selene",
+        "Applicant_Last_Name": "Solis",
+        "Host_Institution": "Institute for Social and Cultural Research, National Institute of Culture and History",
+        "Host_Country": "Belize",
+        "Host_Sub_region": "Central America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Belize",
+        "Archival_Sub_region": "Central America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Video",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 5
+      },
+      "geometry": {
+        "coordinates": [
+          -88.6949615529197,
+          17.2090502597227
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0104",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Labor,  Livelihood,and  Immigration  in  a  Brazilian  Plantation:  the  Archives  of  Farm Ibicaba (1890-1970)",
+        "Grant_Type": "Planning",
+        "Amount": 13145,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Bruno",
+        "Applicant_Last_Name": "Gabriel Witzel de Souza",
+        "Host_Institution": "University of Goettingen",
+        "Host_Country": "Germany",
+        "Host_Sub_region": "Europe (EU)",
+        "Host_Region": "Europe",
+        "Archival_Country": "Brazil",
+        "Archival_Sub_region": "South America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Other",
+        "If_other": "Bound material",
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $12,000",
+        "ObjectId": 6
+      },
+      "geometry": {
+        "coordinates": [
+          10.3922779322478,
+          51.1106310492263
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0055",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Captain Zuzinha's Band: digitization of the manuscripts scores of frevo from the early XX century as a world heritage",
+        "Grant_Type": "Project",
+        "Amount": 47943,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Diego",
+        "Applicant_Last_Name": "Salcedo",
+        "Host_Institution": "Imago Institute",
+        "Host_Country": "Brazil",
+        "Host_Sub_region": "South America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Brazil",
+        "Archival_Sub_region": "South America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Print (Archival)",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $48,000",
+        "ObjectId": 7
+      },
+      "geometry": {
+        "coordinates": [
+          -53.073466888846,
+          -10.7699464289641
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0024",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Our History is Our Force: Protecting Haitian National Patrimony",
+        "Grant_Type": "Project",
+        "Amount": 50000,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Hadassah",
+        "Applicant_Last_Name": "St. Hubert",
+        "Host_Institution": "Digital Library of the Caribbean (dLOC) at Florida International University",
+        "Host_Country": "United States",
+        "Host_Sub_region": "North America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Haiti",
+        "Archival_Sub_region": "Caribbean",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Print (Archival)",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "After funding, PI changed to Miguel Asencio, and then to Jamie Rogers",
+        "ObjectId": 8
+      },
+      "geometry": {
+        "coordinates": [
+          -99.4146191896586,
+          39.3987031562195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0088",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Exploring regional engagement with film in India through a collection ofcelluloid ephemera",
+        "Grant_Type": "Planning",
+        "Amount": 15000,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Vaibhav",
+        "Applicant_Last_Name": "Singh",
+        "Host_Institution": "Shabistan Film Archive",
+        "Host_Country": "India",
+        "Host_Sub_region": "South Asia",
+        "Host_Region": "Asia",
+        "Archival_Country": "India",
+        "Archival_Sub_region": "South Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Video",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 9
+      },
+      "geometry": {
+        "coordinates": [
+          79.4433265475768,
+          23.3793797353311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0059",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Saving a collection and creating access to recordings of Rajasthani culture and music",
+        "Grant_Type": "Project",
+        "Amount": 50000,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Shubha",
+        "Applicant_Last_Name": "Chaudhuri",
+        "Host_Institution": "Archives and Research Centre for Ethnomusicology, American Institute of Indian Studies",
+        "Host_Country": "United States",
+        "Host_Sub_region": "North America",
+        "Host_Region": "Americas",
+        "Archival_Country": "India",
+        "Archival_Sub_region": "South Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Audio",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 10
+      },
+      "geometry": {
+        "coordinates": [
+          -99.4146191896586,
+          39.3987031562195
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0035",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Political Pamphlets, Photographs and Local Journals: From personal collections that narrate the idea of indigeneity in Jharkland, India",
+        "Grant_Type": "Planning",
+        "Amount": 15000,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Sangeeta",
+        "Applicant_Last_Name": "Dasgupta",
+        "Host_Institution": "Jawaharlal Nehru University",
+        "Host_Country": "India",
+        "Host_Sub_region": "South Asia",
+        "Host_Region": "Asia",
+        "Archival_Country": "India",
+        "Archival_Sub_region": "South Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Print (Archival)",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 11
+      },
+      "geometry": {
+        "coordinates": [
+          79.4433265475768,
+          23.3793797353311
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "MEAP-EM-1",
+        "Invited_for_Detailed": "FALSE",
+        "Funded": "TRUE",
+        "Project_Title": "Fragile Film in an unstable country: a negative mission",
+        "Grant_Type": "Emergency",
+        "Amount": 9995,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Yasmine",
+        "Applicant_Last_Name": "Eid-Sabbagh",
+        "Host_Institution": "Arab Image Foundation",
+        "Host_Country": "Lebanon",
+        "Host_Sub_region": null,
+        "Host_Region": "Middle East",
+        "Archival_Country": "Lebanon",
+        "Archival_Sub_region": null,
+        "Archival_Region": "Middle East",
+        "Primary_material_type": "Photo Negative",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 12
+      },
+      "geometry": {
+        "coordinates": [
+          35.8934277441146,
+          33.9214451662357
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0100",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "The Ricardo Montejano Collection: Social movements and Mexican rural and native cultures. ",
+        "Grant_Type": "Project",
+        "Amount": 49985,
+        "Archive_applying_": "TRUE",
+        "Applicant_First_Name": "Pável",
+        "Applicant_Last_Name": "Granados Chaparro",
+        "Host_Institution": "Ibero-American General Secretariat (SEGIB)",
+        "Host_Country": "Mexico",
+        "Host_Sub_region": "Central America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Mexico",
+        "Archival_Sub_region": "Central America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Audio",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "Original host: Fonodo Nacional para la Cultura y las Artes (FONCA)",
+        "ObjectId": 13
+      },
+      "geometry": {
+        "coordinates": [
+          -102.548353419074,
+          23.9528249901719
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0036",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Documenting Colonial-era Monastic Collections in Former Principalities of the Shan State, Myanmar/Burma",
+        "Grant_Type": "Planning",
+        "Amount": 14720,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Francois",
+        "Applicant_Last_Name": "Tainturier",
+        "Host_Institution": "The Inya-Burma Institute, Inc.",
+        "Host_Country": "United States",
+        "Host_Sub_region": "North America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Myanmar",
+        "Archival_Sub_region": "South East Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Other",
+        "If_other": "Bound material",
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $15,000",
+        "ObjectId": 14
+      },
+      "geometry": {
+        "coordinates": [
+          -99.4146191896586,
+          39.3987031562195
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0101",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "Digitising the Justino Valentim Collectionof Vaihoho Sung-Poems, Lautem, Timor-Leste",
+        "Grant_Type": "Planning",
+        "Amount": 14904,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Kim",
+        "Applicant_Last_Name": "Dunphy",
+        "Host_Institution": "Faculty of Fine Arts and Music, University of Melbourne",
+        "Host_Country": "Australia",
+        "Host_Sub_region": null,
+        "Host_Region": "Oceania",
+        "Archival_Country": "Timor-Leste",
+        "Archival_Sub_region": "South East Asia",
+        "Archival_Region": "Asia",
+        "Primary_material_type": "Audio",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": "Prelim amount: $14,749",
+        "ObjectId": 15
+      },
+      "geometry": {
+        "coordinates": [
+          134.484031198107,
+          -25.7099315702514
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Application_ID": "DGV0069",
+        "Invited_for_Detailed": "TRUE",
+        "Funded": "TRUE",
+        "Project_Title": "El gran film del Uruguay - Coleccion Carlos Alonso / The great film of Uruguay - Carlos Alonso Collection",
+        "Grant_Type": "Planning",
+        "Amount": 15000,
+        "Archive_applying_": "FALSE",
+        "Applicant_First_Name": "Felipe",
+        "Applicant_Last_Name": "Bellocq",
+        "Host_Institution": "Universidad Católica del Uruguay",
+        "Host_Country": "Uruguay",
+        "Host_Sub_region": "South America",
+        "Host_Region": "Americas",
+        "Archival_Country": "Uruguay",
+        "Archival_Sub_region": "South America",
+        "Archival_Region": "Americas",
+        "Primary_material_type": "Video",
+        "If_other": null,
+        "Notes_on_material_types": null,
+        "Notes": null,
+        "ObjectId": 16
+      },
+      "geometry": {
+        "coordinates": [
+          -56.0207579244229,
+          -32.7932656898714
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          66.14537421886101,
+          36.8654197726198
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
