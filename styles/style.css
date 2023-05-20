@@ -3,7 +3,7 @@
 
 /* svg colors*/
 .LAmarker path, .LA {
-    fill: rgb(138, 6, 238);
+    fill: rgb(143, 33, 227);
     background-color:rgb(138, 6, 238);
   }
 .OCmarker path, .OC {
@@ -11,15 +11,15 @@
     background-color: rgb(246, 130, 6);
   }
 button{
-        background-color: #6c4bf1; /* Green */
+        background-color: #4373e3; /* Green */
         border: none;
-        color: white;
+        color: rgb(245, 242, 242);
         padding: 15px 32px;
         margin: 5px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 16px;
+        font-size: 6px;
         border-radius: 5px;
 }
 
@@ -39,7 +39,7 @@ header{
 
         padding: 20px;
         text-align: center;
-        background: #b4e9e9;
+        background: #03236f;
         border-radius: 5px;
         color: white;
         font-size: 30px;
@@ -90,7 +90,7 @@ header{
 	transition: all .5s;
 }
 .links > a:hover {
-	background: #d085149c;
+	background: #1482d09c;
 	color: #adf;
 }
 .links > .line {

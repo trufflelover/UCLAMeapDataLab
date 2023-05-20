@@ -13,7 +13,6 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 .addTo(map);
 
 
-
 function createButtons(lat,lng,title){
     const newButton = document.createElement("button"); // adds a new button
     newButton.id = "button"+title; // gives the button a unique id
