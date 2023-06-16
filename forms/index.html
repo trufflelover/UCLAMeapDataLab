@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Collection Data Add</title>
+        <!-- hint: remember to change your page title! -->
+        <meta charset="utf-8" />
+        <link rel="shortcut icon" href="#">
+        <link rel="stylesheet" href="styles/style.css">
+
+        <!-- Leaflet's css-->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+        <!-- font -->
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Leaflet's JavaScript-->
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    </head>
+
+    <body>
+        <header>
+            <h1 class="title">Collection Data</h1>
+            <button class="coolButtons" id="toggleBtn">add new data</button>
+            <!-- space for a menu -->
+        </header>
+
+        <div class="main">
+            <div id="contents">
+                <!-- Be sure to use your own survey here!!!!!!! -->
+                <div id="survey"> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfbwpxhVqvCpsLloTzVgI91_6O6zXhGJVtEfKNf4rbREFkKWQ/viewform?embedded=true" width="640" height="1455" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>">Loading…</iframe></div>
+               
+                <div id="placeForButtons"> <!-- Here is the new div for the buttons -->
+                </div>
+            </div>
+            <div id="the_map"></div>
+        </div>   
+        <div id="footer">
+            Copyright(2023)
+        </div>
+        <script src="js/init.js"></script>
+    </body>
+</html>
+
